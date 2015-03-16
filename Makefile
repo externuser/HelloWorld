@@ -1,4 +1,4 @@
-CC=gcc2
+CC=clang
 CFLAGS=
 LDFLAGS=
 EXEC=hello
