@@ -5,6 +5,6 @@
 main()
 {
     printf("Hello World\n");
-    printf("Goodbye");
+
 }
 
